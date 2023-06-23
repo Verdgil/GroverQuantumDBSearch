@@ -1,8 +1,10 @@
 # Простейшая реализация квантового поиска по базе данных
 
 ## Установка и запуск 
-`pip install -r requirements.txt`
-`python main.py`
+```shell
+pip install -r requirements.txt
+python main.py
+```
 
 ## Реальный запуск
 Запуск на IBM Q в теории возможен, но я его не проверял
